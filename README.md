@@ -11,3 +11,6 @@ Basically, the code;
 - Plays audio in Colab or allows MP3 download.
 
 It can be concluded that the project is ideal for beginners, offering a simple way to create audiobooks from Word documents with customizable audio output in Google Colab.
+
+MIT License 
+Copyright (c) 2025 *1453nicat*
